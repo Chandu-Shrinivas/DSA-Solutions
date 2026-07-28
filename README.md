@@ -11,6 +11,7 @@
 | [0054-spiral-matrix](https://github.com/Chandu-Shrinivas/DSA-Solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Chandu-Shrinivas/DSA-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Chandu-Shrinivas/DSA-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Chandu-Shrinivas/DSA-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Chandu-Shrinivas/DSA-Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Chandu-Shrinivas/DSA-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Binary Search
@@ -20,6 +21,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Chandu-Shrinivas/DSA-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Chandu-Shrinivas/DSA-Solutions/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Chandu-Shrinivas/DSA-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Chandu-Shrinivas/DSA-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 ## Sorting
 |  |
 | ------- |
