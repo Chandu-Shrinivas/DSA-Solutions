@@ -9,6 +9,7 @@
 | [0035-search-insert-position](https://github.com/Chandu-Shrinivas/DSA-Solutions/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Chandu-Shrinivas/DSA-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Chandu-Shrinivas/DSA-Solutions/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/Chandu-Shrinivas/DSA-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Chandu-Shrinivas/DSA-Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Chandu-Shrinivas/DSA-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Binary Search
@@ -57,8 +58,13 @@
 | ------- |
 | [0048-rotate-image](https://github.com/Chandu-Shrinivas/DSA-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Chandu-Shrinivas/DSA-Solutions/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/Chandu-Shrinivas/DSA-Solutions/tree/master/0073-set-matrix-zeroes) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Chandu-Shrinivas/DSA-Solutions/tree/master/0054-spiral-matrix) |
+## Hash Table
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/Chandu-Shrinivas/DSA-Solutions/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
