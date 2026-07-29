@@ -36,10 +36,12 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Chandu-Shrinivas/DSA-Solutions/tree/master/0020-valid-parentheses) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Chandu-Shrinivas/DSA-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Chandu-Shrinivas/DSA-Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Counting Sort
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Chandu-Shrinivas/DSA-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Chandu-Shrinivas/DSA-Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Stack
 |  |
 | ------- |
@@ -49,6 +51,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/Chandu-Shrinivas/DSA-Solutions/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Chandu-Shrinivas/DSA-Solutions/tree/master/0048-rotate-image) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Chandu-Shrinivas/DSA-Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -71,4 +74,9 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Chandu-Shrinivas/DSA-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Chandu-Shrinivas/DSA-Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Chandu-Shrinivas/DSA-Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 <!---LeetCode Topics End-->
