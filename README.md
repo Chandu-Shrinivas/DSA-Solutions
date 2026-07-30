@@ -35,6 +35,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Chandu-Shrinivas/DSA-Solutions/tree/master/0020-valid-parentheses) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Chandu-Shrinivas/DSA-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Chandu-Shrinivas/DSA-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Chandu-Shrinivas/DSA-Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Counting Sort
@@ -51,6 +52,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/Chandu-Shrinivas/DSA-Solutions/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Chandu-Shrinivas/DSA-Solutions/tree/master/0048-rotate-image) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Chandu-Shrinivas/DSA-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Chandu-Shrinivas/DSA-Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Sliding Window
 |  |
@@ -79,4 +81,8 @@
 |  |
 | ------- |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Chandu-Shrinivas/DSA-Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Greedy
+|  |
+| ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Chandu-Shrinivas/DSA-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 <!---LeetCode Topics End-->
