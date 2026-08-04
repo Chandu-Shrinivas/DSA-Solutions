@@ -10,7 +10,7 @@
 --         WHERE rnk = N
 --     );
 -- END
-CREATE FUNCTION getNthHighestSalary(N INT) RETURNS INT
+CREATE FUNCTION getNthHighestSalary(n INT) RETURNS INT
 BEGIN
  set n = n -1 ;
   RETURN (
