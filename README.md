@@ -85,4 +85,8 @@
 |  |
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Chandu-Shrinivas/DSA-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/Chandu-Shrinivas/DSA-Solutions/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
